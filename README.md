@@ -12,6 +12,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="hhttps://www.linkedin.com/in/gabriele-evangelista/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/74/linkedin.svg" alt="gabriele-evangelista" height="30" />
+<a href="https://www.linkedin.com/in/gabriele-evangelista/" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/74/linkedin.svg" alt="gabriele-evangelista" height="30" />
 
 </p>
